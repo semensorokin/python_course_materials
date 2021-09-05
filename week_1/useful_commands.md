@@ -29,8 +29,11 @@
 7) Send files to remote server
 
 `git push`
+
+8) Take some changes from remote server (someone made it for you :)) 
+`git pull `
    
-8) Create empty files
+9) Create empty files
    
 `touch <file_name>`
 
