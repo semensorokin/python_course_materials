@@ -17,7 +17,17 @@ If you have any questions, please contact me via mail (sorokin.semen2020@gmail.c
 | About git. Python. Anaconda. Jupyter notebook. `print` and  `int` values. Now you know: 1. How to navigate through your computer using command line tools like `cd`/`ls` 1. How to install `git` on your computer. 1. How to `clone` repo, `add`, `commit` and `push` file to your local computer and remote host. 1. How to install `Anaconda` on your machine. 1. How to run `Jupyter Notebook` from `Anaconda`. 1. How to install `Jupyter Notebook` (JN) using terminal on Mac OS and run JN from command line. 1. How run cells in JN, write some  simple code and run it  | 03.09.2022 | | Only home task in week 1 for additional points| [About git (rus)](https://www.youtube.com/watch?v=SEvR78OhGtw) |
 
 
+Some useful courses and links:
+ - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo) - Stepik - free - rating 5
+ - [Программирование на Python](https://stepik.org/course/67/promo) - Stepik - free - rating 4.7
 
+Online book:
+ - [Python Tutorial](https://pythonbasics.org/exercises/)
+ - Basic explanations of Python concepts, and some interesting tasks - [pythontutor](http://pythontutor.ru/)
+
+Books in repo:
+ - python3 learning 
+ - pocket python (references)
 
 
 
