@@ -24,13 +24,29 @@ If you have any questions, please contact me via mail (sorokin.semen2020@gmail.c
 |                                                                                                                                                                                                                                                1. `List` and `dict` comprehension `Python`  <br>   1. `import pandas as pd` - why it is so important in `Python`  <br>                                                                                                                                                                                                                                                 | 05.10.2022 |                      [Lec#8]()                       |             HW # 1 (due to 18.11)              |  |
 
 HW #0. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_0/HW_0.ipynb). Link to [submit hw](https://forms.gle/KEefbJXP7VtpGnBb8) (due to 16.10) 
+HW #1. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_1/HW1.ipynb). Link to [submit hw](https://forms.gle/mPpBU4qshZ3bCJ929) (due to 18.11) 
 
 
+## Exam
 
+How to pass exam without exam? :)
+1. You have less than 6 point (according to hw's and additional points) - no way - you need to pass an exam.
+
+2. You have equal/more (>=) than 6 point (according to hw's and additional points), than you have no need to pass an exam, but the max grad you can have is 8.
+    It means:
+   - You have 6 or 7 - final grad will be 6 or 7 
+   - You have 8, 9, 10 - final grad 8
+
+3. To get 9 or 10:
+    You need to register a profile on [leetcode.com](https://leetcode.com/). Resolve 4 easy problems and 1 medium. After completion send me a screenshot of your profile.
+
+
+## Courses
 Some useful courses and links:
  - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo) - Stepik - free - rating 5
  - [Программирование на Python](https://stepik.org/course/67/promo) - Stepik - free - rating 4.7
 
+## Books
 Online book:
  - [Python Tutorial](https://pythonbasics.org/exercises/)
  - Basic explanations of Python concepts, and some interesting tasks - [pythontutor](http://pythontutor.ru/)
