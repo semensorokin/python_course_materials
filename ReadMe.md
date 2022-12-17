@@ -33,6 +33,10 @@ HW #1. Link to [the notebook with tasks](https://github.com/semensorokin/python_
 
 HW #2. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_2/Parsing_IMDB.ipynb). Link to [submit hw](https://forms.gle/pfg8SbHQs2XteuC79) (due to 18.12) 
 
+HW #3. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_3/CarsClasses.ipynb). Link to [submit hw](https://forms.gle/dEJw9cqsbp8zq1t48) (due to 27.12) 
+
+Exam 28.12 в 19.00
+
 ## Exam
 
 How to pass exam without exam? :)
