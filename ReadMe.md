@@ -30,6 +30,7 @@ HW #0. Link to [the notebook with tasks](https://github.com/semensorokin/python_
 
 HW #1. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_1/HW1.ipynb). Link to [submit hw](https://forms.gle/mPpBU4qshZ3bCJ929) (due to 18.11) 
 
+HW #2. Link to [the notebook with tasks](https://github.com/semensorokin/python_course_materials/blob/year22-23/HW_2/Parsing_IMDB.ipynb). Link to [submit hw](https://forms.gle/pfg8SbHQs2XteuC79) (due to 18.12) 
 
 ## Exam
 
